@@ -1,0 +1,8 @@
+{"id":1,"name":"Teclado","price":550}
+{"id":2,"name":"Computador","price":500}
+{"id":3,"name":"NoteBook","price":1000}
+{"id":4,"name":"NoteBook","price":1000}
+{"id":5,"name":"Celular","price":1500}
+{"id":6,"name":"Caderno","price":100}
+{"id":7,"name":"NoteBook","price":1500}
+{"id":8,"name":"NoteBook","price":1500}
