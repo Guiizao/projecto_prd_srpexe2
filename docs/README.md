@@ -20,7 +20,7 @@ Desenvolver uma aplicação modular que:
 
 ## Estrutura de Pastas
 ```
-projecto_prd_srpexe2/
+projecto_prd_srpexe2-main/
 ├─ docs/
 │  ├─ README.txt
 ├─ src/
@@ -72,7 +72,7 @@ Cada linha contém um objeto JSON, por exemplo:
 3. Crie a pasta `storage` e o arquivo vazio `products.txt`.  
 4. Inicie o servidor Apache e acesse:
    ```
-   http://localhost/projecto_prd_srpexe2/public/index.php
+   http://localhost/projecto_prd_srpexe2-main/public/index.php
    ```
 
 ## Casos de Uso
