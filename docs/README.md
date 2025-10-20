@@ -89,9 +89,9 @@ Cada linha contém um objeto JSON, por exemplo:
 - Leonardo Lopes Martins Silva - 2010503
 
 ## Imagens
-<img width="342" height="212" alt="image" src="https://github.com/user-attachments/assets/07ea83a6-02c4-417d-a362-dddd98158cc5" /><br>
-<img width="291" height="357" alt="image" src="https://github.com/user-attachments/assets/9ac053e1-e073-46a5-a7bf-4fce9a5772e8" /><br>
-<img width="464" height="214" alt="image" src="https://github.com/user-attachments/assets/80596891-378d-4169-8b98-0a86366737ae" />
+<img width="301" height="221" alt="image" src="https://github.com/user-attachments/assets/e1bd2ea9-84a2-4115-a4da-86beca49782e" /><br>
+<img width="313" height="342" alt="image" src="https://github.com/user-attachments/assets/8195263e-3dc0-4fb4-a87e-4e948cbb8e9f" /><br>
+<img width="434" height="237" alt="image" src="https://github.com/user-attachments/assets/05bff418-018f-4e60-842a-e5fc4bb9e419" />
 
 ## Observações Finais
 - O projeto não utiliza banco de dados, apenas um arquivo texto.
